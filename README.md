@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Banner động -->
+<!-- Animated banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nguy%E1%BB%85n%20Ho%C3%A0i%20Phong&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-stack%20Developer%20%7C%20Mobile%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing effect -->
 <a href="https://github.com/hoaiphongpvt">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Xin+ch%C3%A0o!+I'm+Ho%C3%A0i+Phong;Full-stack+JavaScript+Developer;Node.js+%7C+Next.js+%7C+MongoDB;Android+Developer+with+Kotlin;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%91%8B+Hi+there!+I'm+Ho%C3%A0i+Phong;Full-stack+JavaScript+Developer;Node.js+%7C+Next.js+%7C+MongoDB;Android+Developer+with+Kotlin;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,27 +30,27 @@
 
 ---
 
-## 🧑‍💻 Về tôi
+## 🧑‍💻 About Me
 
 ```typescript
 const hoaiPhong = {
-  location: "Việt Nam 🇻🇳",
+  location: "Vietnam 🇻🇳",
   role: "Full-stack & Mobile Developer",
   code: ["TypeScript", "JavaScript", "Kotlin", "PHP"],
   currentFocus: "🎯 Building modern web apps with Next.js",
-  funFact: "Tôi debug bằng console.log và không hối hận 😄",
+  funFact: "I debug with console.log and I have no regrets 😄",
 };
 ```
 
-- 🔭 Đang phát triển các dự án web với **Node.js, Express & Next.js**
-- 📱 Làm ứng dụng **Android** với **Kotlin**
-- 🌱 Đang học sâu hơn về **TypeScript** và kiến trúc backend
-- 💬 Hỏi tôi về **JavaScript, MongoDB, REST API**
-- ⚡ Sở thích: biến ý tưởng thành sản phẩm thật
+- 🔭 Building web projects with **Node.js, Express & Next.js**
+- 📱 Developing **Android** apps with **Kotlin**
+- 🌱 Currently diving deeper into **TypeScript** and backend architecture
+- 💬 Ask me about **JavaScript, MongoDB, REST APIs**
+- ⚡ I love turning ideas into real products
 
 ---
 
-## 🛠️ Công nghệ & Công cụ
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
@@ -67,7 +67,7 @@ const hoaiPhong = {
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ const hoaiPhong = {
 
 ---
 
-## 🚀 Dự án nổi bật
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -115,6 +115,6 @@ const hoaiPhong = {
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-**⭐ Cảm ơn bạn đã ghé thăm! Hãy để lại một star nếu thấy dự án nào thú vị nhé!**
+**⭐ Thanks for visiting! Drop a star if you find any project interesting!**
 
 </div>
